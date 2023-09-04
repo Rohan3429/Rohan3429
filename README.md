@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan3429
+- 👋 Hi, I’m Rohan Patel
 - 👀 I’m interested in ...games
 - 🌱 I’m currently learning ... Web Devlopment
 - 💞️ I’m looking to collaborate on ...
