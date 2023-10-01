@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Patel
 - 👀 I’m interested in ...games
-- 🌱 I’m currently learning ... Web Devlopment
+- 🌱 I’m currently learning ... Web Devlopment + App Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rohanpatel0421@gmail.com
 
