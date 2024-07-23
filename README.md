@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Patel</h1>
 <h3 align="center">a web development enthusiast and student 📚💻. I have a deep interest in exploring the fascinating world of web technologies and building impactful applications.</h3>
-🔭 I’m currently working on Sign Language Translator
 
-🌱 I’m currently learning Web Development, AI, Full Stack
+🌱 I’m currently learning Web Development, Full Stack
 
 📝 I regularly write articles on https://medium.com/@yashbaravaliya206
 
