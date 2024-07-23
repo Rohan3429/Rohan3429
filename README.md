@@ -3,13 +3,9 @@
 
 🌱 I’m currently learning Web Development, Full Stack
 
-📝 I regularly write articles on https://medium.com/@yashbaravaliya206
-
-💬 Ask me about Python, Web Development, Machine Learning, Deep Learning, NLP
-
 📫 How to reach me rohanpatel0421@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/1WlzXX5wXoSrvptuS-6XhAi5b7Vo4SYaO/view?usp=sharing
+📄 Know about my experiences https://drive.google.com/file/d/1rwn989eRrU1vRfZV9V80YFVFEGbes_ze/view?usp=drive_link
 
 Blogs posts
 <!-- BLOG-POST-LIST:START -->
