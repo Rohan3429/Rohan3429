@@ -4,6 +4,7 @@
 🌱 I’m currently working at AlpsLogic IT Solutions as Full Stack Developer
 
 📫 How to reach me rohanpatel0421@gmail.com
+</br>
 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1E71PdtltnWFPnpIRvAtJwP0g9ZgQP76a/view?usp=drivesdk)
 
 
