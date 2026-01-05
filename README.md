@@ -5,7 +5,7 @@
 
 📫 How to reach me rohanpatel0421@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/1rwn989eRrU1vRfZV9V80YFVFEGbes_ze/view?usp=drive_link
+[View My Resume](https://drive.google.com/file/d/1E71PdtltnWFPnpIRvAtJwP0g9ZgQP76a/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
