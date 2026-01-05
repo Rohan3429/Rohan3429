@@ -8,13 +8,6 @@
 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1E71PdtltnWFPnpIRvAtJwP0g9ZgQP76a/view?usp=drivesdk)
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://https://www.linkedin.com/in/rohan3429/" target="blank">
