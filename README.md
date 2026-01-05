@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://https://www.linkedin.com/in/rohan3429/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-baravaliya-12683822b" height="30" width="40" />
-  </a>
+  </a> 
   </a>
 </p>
 
